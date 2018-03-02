@@ -1,0 +1,9 @@
+.main-table {
+  position: relative;
+  margin: auto;
+  padding: 18px;
+  width: 250px;
+  border: solid 1px orangered;
+  /*background-color: grey;*/
+}
+
